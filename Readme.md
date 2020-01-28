@@ -25,5 +25,5 @@ Install the JarAndDocker.zip folder on this link: http://tiny.cc/xjlajz. This fo
 
 Once the server is launched you see the spring logo, the server is launched on the door 8080 (localhost: 8080).
 Your turn to try!
-    On the browser, you launch (http: // localhost: 8080
-    you can try gcc, latex and dot command
+On the browser, you launch (http: // localhost: 8080)
+you can try gcc, latex and dot command
